@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project applies the basic Fama-French multi-factor asset pricing framework to evaluate the performance of selected US equity ETFs. Using the Fama–French three-factor model, ETF returns are decomposed into systematic risk exposures (market, size, value, momentum) and residual alpha.
+This project applies the basic Fama-French multi-factor asset pricing framework to evaluate the performance of selected US equity ETFs. Using the Fama–French three-factor model, ETF returns are decomposed into systematic risk exposures (market, size, value) and residual alpha.
 
 The objective is to determine whether ETF performance can be explained by exposure to common equity risk premia or whether statistically significant abnormal returns remain after controlling for these factors.
 
